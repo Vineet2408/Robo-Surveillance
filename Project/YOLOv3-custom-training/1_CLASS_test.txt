@@ -1,0 +1,400 @@
+D:\Project\OIDv4\OID\Dataset\train\Handgun\003af63a783a1615.jpg 457,183,538,372,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\0045a7e07dd4fa0e.jpg 566,336,705,391,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\0065a51ab60e59fe.jpg 135,82,795,571,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\0065a9f1ac8ca2b4.jpg 128,151,689,349,1 826,271,979,304,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\006fb86aed487201.jpg 67,140,368,579,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\00d1e939c70f17f0.jpg 0,4,819,389,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\0127cf8617e6b52f.jpg 62,286,259,419,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\012dcd050f403cd9.jpg 293,265,678,510,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\0148c4e77ea54960.jpg 48,58,962,642,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\015cd5353344d722.jpg 302,620,494,665,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\016f96522808c092.jpg 135,22,1023,596,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\01782b33668edf82.jpg 347,297,483,421,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\017c8de936318a81.jpg 80,115,819,412,1 134,417,876,718,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\02026c76bde7e6ea.jpg 108,326,580,538,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\0209f11cc23fd47e.jpg 638,403,881,673,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\02363431c89e4f7c.jpg 0,0,961,752,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\027c5d8272d87b32.jpg 186,227,650,513,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\02eff940ae3f0189.jpg 0,87,1004,764,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\02f9ae767bfcf239.jpg 13,87,962,723,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\0318125dfa3cf007.jpg 514,280,674,346,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\036cced2d11ec245.jpg 280,174,529,393,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\041d87b6266faa8e.jpg 666,230,842,371,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\044b569c3ba18575.jpg 230,350,748,716,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\04543230800dac0d.jpg 96,254,577,590,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\0488fd6b207f203a.jpg 48,274,610,960,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\048cb4cff077fd42.jpg 97,548,243,638,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\04d1941693ead454.jpg 417,155,623,487,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\04d6206483f835e6.jpg 0,0,901,767,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\058dd78ea5867506.jpg 85,263,428,398,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\05a0dd0133e1c360.jpg 142,67,901,781,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\05cee6e5f0497086.jpg 0,79,765,1016,1 0,89,765,1023,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\05fa17455bde44bc.jpg 0,0,946,767,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\068fb4b25469c4d0.jpg 0,478,92,528,1 0,725,125,851,1 0,608,219,737,1 0,291,236,423,1 0,0,319,147,1 29,156,346,302,1 90,858,394,986,1 111,380,364,501,1 128,531,427,664,1 140,757,443,885,1 227,675,525,792,1 253,474,514,600,1 285,161,585,280,1 381,352,673,526,1 400,0,673,90,1 516,679,733,824,1 533,110,733,238,1 604,533,708,604,1 662,302,767,385,1 701,62,767,122,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\077baa4e85a2ece1.jpg 468,174,588,281,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\085040b844c2aa92.jpg 72,60,1000,340,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\090897e8ebc8adf5.jpg 53,62,965,716,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\09383bdb52bfc8be.jpg 98,281,257,347,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\0977e7e687bafb92.jpg 748,390,1022,646,1 773,386,1022,528,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\0a01bacf8d0664b9.jpg 106,227,1023,767,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\0a4579d3deb36479.jpg 508,210,607,289,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\0a46f9b3afe642f2.jpg 77,221,990,635,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\0b019f09f1189536.jpg 203,190,810,596,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\0b1219fded94d150.jpg 115,58,883,222,1 276,337,741,517,1 444,211,844,384,1 545,492,767,648,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\0b9238b5cf124731.jpg 37,28,1021,666,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\0caad617044daefb.jpg 467,238,602,366,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\0cc98323ed2e4fc5.jpg 108,87,871,641,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\0d25f1cf15f5b3b4.jpg 107,81,311,535,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\0d3f3f4e0634026b.jpg 68,84,971,705,1 69,81,971,703,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\0ea1255bbe3ddb30.jpg 101,51,906,686,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\0ea79ece19320efe.jpg 0,0,1022,681,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\0ebc51aea0d8fcb4.jpg 0,79,1022,767,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\0ec2cd87cca025c5.jpg 116,176,625,789,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\0ef93fea82e59b65.jpg 307,170,744,348,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\0f22eaf0d420239f.jpg 103,74,915,655,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\0f9cde9b86c937f5.jpg 138,335,756,615,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\0fd074fdd8166f9b.jpg 105,243,992,659,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\0febb7276ea9fe5f.jpg 672,217,949,456,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\106e029772d694a7.jpg 88,98,954,599,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\10901307d78e4e62.jpg 702,312,848,392,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\10acbbd6db8862cf.jpg 302,264,718,603,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\10fdc831420b8968.jpg 158,156,958,556,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\114eac58d70e8c7c.jpg 305,433,460,684,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\1302153ecbf53853.jpg 55,167,1015,600,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\13119f25914af63c.jpg 11,63,1009,679,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\13cef2ee3c4e0973.jpg 97,266,657,577,1 204,424,748,949,1 288,129,647,343,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\14ed72ff841b8402.jpg 0,94,810,534,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\151c7597b15bb428.jpg 656,251,840,343,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\15668e3075e27fb9.jpg 316,245,691,523,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\15c01407665866e0.jpg 206,183,826,519,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\15c84af90d8f2aba.jpg 369,142,717,439,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\16106736b2149cea.jpg 60,50,995,688,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\1619b12e2ae2822a.jpg 97,136,976,677,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\1813c03c2454ce80.jpg 295,151,750,618,1 888,308,1023,547,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\1824cc6dd3f7ce7c.jpg 261,371,649,556,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\189207aff552d468.jpg 22,33,992,617,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\18ecd241b66559dc.jpg 0,0,716,284,1 209,216,873,761,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\194058054f8ca190.jpg 442,274,552,396,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\198bbd2796390596.jpg 259,107,874,668,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\1a7544cff439c995.jpg 259,195,808,493,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\1c7365887d7cbea7.jpg 237,145,756,565,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\1d14a26471a4e193.jpg 490,277,655,364,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\1db3abae5f8b29d7.jpg 113,193,661,963,1 399,186,685,547,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\1e28cf9e0bcf227b.jpg 72,110,942,637,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\1e325c47de2bbc31.jpg 88,44,1023,384,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\1e4657e2a8511d04.jpg 98,207,920,633,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\1f2242d1b203377c.jpg 327,550,559,697,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\1f40e8e5f6a5a51a.jpg 478,285,572,550,1 481,282,568,547,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\1f6b0d76f10c6e5a.jpg 11,3,921,1010,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\1f8044ec515fcf82.jpg 46,162,913,554,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\1fd9c41bbb5403b3.jpg 0,8,1023,682,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\2026123fa11b1885.jpg 167,314,579,628,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\2200e01ce00cc4ca.jpg 145,12,838,601,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\244b06e5f1fe9527.jpg 30,100,935,595,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\249b76b2a71aba91.jpg 43,51,665,878,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\24ac575fd69efd44.jpg 356,305,939,674,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\265e0ed8c7e03cb8.jpg 69,5,938,743,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\266a1ed2789eec8c.jpg 101,174,882,664,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\26abec4b12fd393d.jpg 86,31,927,682,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\26f50b38c60ea2d9.jpg 149,0,1023,677,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\27a61fc9bf374a0d.jpg 740,130,1022,345,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\2821256df3efd008.jpg 56,19,990,635,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\2888503469d8da09.jpg 10,126,951,593,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\297d3a3139bddcd6.jpg 120,20,512,189,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\29fa41f99d82779f.jpg 208,435,633,612,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\29ff174232c8cd67.jpg 99,177,990,521,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\2ada1d573ecf3c85.jpg 572,42,1023,458,1 814,368,1023,623,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\2b12a88d8fc60261.jpg 101,62,938,718,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\2b93097116810426.jpg 44,0,282,681,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\2c5a20af91db266e.jpg 0,63,988,697,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\2d85cdd3785bc51a.jpg 28,107,1023,684,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\2e04af0134f9884d.jpg 42,150,917,540,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\2e519b93d66374a4.jpg 140,16,979,710,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\2ecfa5e05306b3e0.jpg 177,222,938,753,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\2efbf33dd703c8c6.jpg 57,67,910,682,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\2f04ddbb2583fbff.jpg 220,217,870,652,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\2fa7253fca490bad.jpg 0,52,1022,767,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\2fe503a4b44b18c2.jpg 24,99,1006,697,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\2ff0335f2478dba9.jpg 706,236,883,362,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\304cc9d32af1afcf.jpg 40,474,723,932,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\3122ebb9cb449fa9.jpg 107,57,569,254,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\31d90d7c50ac0ee3.jpg 226,99,882,617,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\3220f0fa4d7ec2e4.jpg 62,209,952,499,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\32273104bdd318a6.jpg 28,10,994,473,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\32bd408d6b2fbd81.jpg 281,257,495,461,1 578,162,994,341,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\33604dafadffce22.jpg 0,0,1023,779,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\33d3294103709f61.jpg 179,56,761,612,1 616,361,1015,682,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\34826bfe72a31684.jpg 0,69,979,630,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\355676fe0c2eda42.jpg 128,128,928,713,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\3632ed446a133656.jpg 83,144,931,733,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\372232135cfa6128.jpg 419,284,627,430,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\3725b748f0139e04.jpg 35,115,953,676,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\3820af22afaa632b.jpg 119,182,978,700,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\3868599781102a4e.jpg 19,56,1018,738,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\386f7887405c6796.jpg 108,121,944,433,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\388e93e937775b63.jpg 758,120,950,209,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\3958c3bd9e632077.jpg 429,185,629,551,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\39ca9b377b4d48ee.jpg 213,190,787,583,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\3ce713a91dec9d38.jpg 255,512,598,767,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\3d01415dc2912724.jpg 467,44,1022,478,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\3e7f0964bc53226b.jpg 7,99,987,606,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\3e86f494071c0584.jpg 64,279,664,652,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\3ef29341c5e4bbf0.jpg 0,0,1023,489,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\41acfd673130de92.jpg 93,135,812,759,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\41cf6d3b7ac31d2c.jpg 199,198,705,403,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\4275b8e4a57f855c.jpg 320,33,1023,684,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\45c2169b2fa939bd.jpg 94,161,886,624,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\45eb6666d924e287.jpg 67,269,357,504,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\462b9a5bc48da32e.jpg 67,55,857,434,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\462ec3c1ba81e669.jpg 139,112,423,315,1 171,379,457,606,1 343,233,682,525,1 476,102,941,438,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\465c6cbf119a1449.jpg 337,527,539,652,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\469d7de51ae887f1.jpg 467,185,908,438,1 530,0,794,223,1 665,303,787,436,1 668,119,934,401,1 754,27,924,176,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\46db2f2bd6a859bd.jpg 317,294,539,606,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\47db2dd6cca8211d.jpg 85,78,967,594,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\4990afe366f1471f.jpg 32,104,977,663,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\49b1fd053c5bfa17.jpg 355,308,492,496,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\4a580434f0a7f1f4.jpg 89,207,687,553,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\4aaf0f68c7695031.jpg 133,105,389,388,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\4ac103cc863345ce.jpg 383,117,775,829,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\4b516fd79ab03702.jpg 0,33,780,679,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\4c361533bba3cc71.jpg 224,297,496,682,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\4c51a3a15ebf1b30.jpg 65,62,960,651,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\4d965e6fb5cd5c5d.jpg 88,83,954,623,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\4dea139b941b5405.jpg 32,18,694,450,1 85,441,728,888,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\4efbc057c4d0857e.jpg 55,116,992,505,1 469,394,961,649,1 705,530,888,648,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\4f30dc4b8e2a583d.jpg 14,43,986,432,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\4fbfc3718b593a48.jpg 101,136,438,938,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\4ff2b306db9846ba.jpg 229,15,835,354,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\5006f6ce40142eea.jpg 188,224,876,657,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\504da6fe12aaadcd.jpg 51,194,462,507,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\5062b5fd0df2031e.jpg 80,142,949,472,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\50df4f4bf7d955af.jpg 47,206,971,546,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\5113bec2aa5c2d5e.jpg 0,103,727,614,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\51f5c07107b6f55b.jpg 39,207,989,639,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\521fd1deca0d722b.jpg 72,456,540,801,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\529cfd88d99a8e71.jpg 132,190,609,784,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\532e3395d3ea0e20.jpg 35,179,995,644,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\5367a0e0fa21750e.jpg 65,74,931,607,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\540c842a690ecae5.jpg 24,396,217,504,1 34,210,196,318,1 91,54,227,150,1 94,589,246,675,1 207,226,370,325,1 210,409,340,504,1 272,563,446,679,1 273,47,427,152,1 368,400,526,498,1 382,234,516,327,1 466,570,620,683,1 475,59,603,150,1 525,220,716,324,1 555,414,677,505,1 625,52,800,152,1 648,575,792,680,1 711,393,874,504,1 725,227,874,324,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\54caac49ac05213d.jpg 29,29,994,513,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\553a4b5c58b8e647.jpg 204,74,994,552,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\558b45e62f32d4fa.jpg 160,444,383,719,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\571f3917948e231f.jpg 461,405,676,571,1 667,341,937,564,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\57889567831b68c0.jpg 7,161,967,723,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\57d800dbdd96262e.jpg 63,116,395,358,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\588aff70ac2fe2c5.jpg 224,33,909,677,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\58ef48346d1a0cb3.jpg 26,142,974,733,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\59027a480205419a.jpg 259,173,969,682,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\5a2974d792a69b5e.jpg 27,611,259,787,1 510,609,864,817,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\5a6a131333a3641c.jpg 409,92,1023,487,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\5a9abb203fc76a39.jpg 12,15,1022,562,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\5abec6609b72bc64.jpg 0,78,226,162,1 182,174,801,460,1 901,346,1023,537,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\5aebde1a43c1ea04.jpg 155,164,892,516,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\5b2a1b57d2e6e57d.jpg 0,190,1005,660,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\5b37a417d7871bbb.jpg 404,25,514,276,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\5bc0e450b2e93f6a.jpg 408,270,932,596,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\5c556a24ef9786de.jpg 118,67,958,619,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\5d24572a419d7d0e.jpg 261,180,1021,673,1 263,178,749,340,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\5dbf40a876f2dbe4.jpg 96,69,938,721,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\5f373981ff0c6356.jpg 38,186,724,966,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\5f953a156f41fb9f.jpg 57,175,977,557,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\5fb1779480f31a71.jpg 673,313,798,424,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\5fdca02b82b14b02.jpg 88,0,302,285,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\6006b0e57c85badc.jpg 168,263,320,354,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\6063f674504d70af.jpg 142,113,1009,528,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\6065b5345cc6abf5.jpg 110,257,820,752,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\6089850bd15f3c73.jpg 62,191,946,584,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\60aadb02550d295c.jpg 20,28,1017,486,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\616edb954ab6a646.jpg 273,128,826,486,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\6503b01495948349.jpg 18,77,999,590,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\656c207a88e5914f.jpg 111,137,323,395,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\65d97aad1f688054.jpg 138,305,1023,767,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\6914cd4f87144738.jpg 73,83,991,632,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\6927860e7000e8e6.jpg 124,37,970,450,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\69d1a4669511d843.jpg 275,0,687,714,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\6a0b3d4dc379efc0.jpg 99,79,1023,682,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\6a0bc472098cb90a.jpg 183,92,408,459,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\6a4fd42a0a39172d.jpg 558,486,771,610,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\6a549dae5b97c6e4.jpg 56,42,1023,591,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\6a81129f2b101522.jpg 219,186,860,636,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\6aa241d2de438a2d.jpg 76,72,415,589,1 382,112,710,577,1 609,182,849,580,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\6be635847da79224.jpg 46,130,987,641,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\6d2118fb5c7e7eb8.jpg 127,110,926,762,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\6fce6f21715f5aca.jpg 100,73,944,640,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\7020d5772191c771.jpg 13,15,675,475,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\70af5f158fa24860.jpg 199,462,590,896,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\740d38f349a9f604.jpg 524,503,711,623,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\7498d89410881aea.jpg 99,104,938,393,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\757a10f9ec9503af.jpg 250,178,659,522,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\783a0edc32735b98.jpg 608,192,775,334,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\78f80cfdbf85a105.jpg 0,48,1013,767,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\79cf3a514632412e.jpg 76,117,376,587,1 172,16,680,751,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\7a1396405f071d8d.jpg 171,82,742,713,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\7a69da07c620869f.jpg 156,0,1023,330,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\7b040f0cc9d5d32f.jpg 84,269,922,559,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\7d9febc1c0c5a14d.jpg 17,136,618,981,1 117,103,682,455,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\7e0e552408cd28e5.jpg 76,125,724,824,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\7e18ae16c73e384f.jpg 77,645,373,899,1 135,485,266,602,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\7e2756291b346c68.jpg 15,27,1017,521,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\7ebbce584a2c900c.jpg 67,73,950,711,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\7eeeee0b3d7c36bd.jpg 0,122,55,218,1 89,155,963,616,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\8003a67cd8c88b7b.jpg 368,221,533,362,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\808653a837d75987.jpg 114,315,999,572,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\815fd57da728a08a.jpg 7,98,987,529,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\8214991089fefe4e.jpg 342,215,728,498,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\82585a7d93470d5a.jpg 499,326,640,410,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\8293e083375072ed.jpg 69,71,934,680,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\82c1787fe181dd52.jpg 116,311,888,680,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\831f04c7b16ad888.jpg 0,0,210,368,1 302,98,791,471,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\833636579f43044d.jpg 98,62,990,640,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\839cb28a3dc890b4.jpg 42,82,924,688,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\84025b05f78cd4fe.jpg 0,75,346,317,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\843bf90c68f97c8a.jpg 162,351,426,590,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\849785f2ee764b6f.jpg 209,344,295,501,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\85211aa80547d052.jpg 166,49,869,529,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\85692e989086eda5.jpg 491,349,892,580,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\87307ceb82922add.jpg 61,79,970,704,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\886c9f609e6eb203.jpg 129,0,1023,739,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\8900150c0ff9ff73.jpg 0,94,1022,664,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\8955aad4e43a960b.jpg 277,257,481,339,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\8967c4cc0a7e1dd7.jpg 0,49,1023,679,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\89cf37f302c033ff.jpg 28,129,878,874,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\8ba709ac72cbbec8.jpg 404,80,586,224,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\8c3663fd0ecc7b31.jpg 270,411,435,557,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\8d2e578c242ab5c3.jpg 53,263,725,751,1 62,50,668,378,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\8df6d0760f84982e.jpg 99,231,984,748,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\8e3eab9ad91b2188.jpg 48,61,992,676,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\8eb0b5c13957d034.jpg 112,309,888,607,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\8f11d290fbc94a02.jpg 216,224,414,680,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\9067286e7b3efd8c.jpg 469,190,498,201,1 591,190,732,311,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\9186d7b4f90ad9de.jpg 32,558,615,711,1 211,148,519,313,1 282,387,517,517,1 613,411,872,530,1 650,132,935,282,1 661,586,982,767,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\92b4b6b69e40b44f.jpg 29,212,174,308,1 29,546,174,656,1 29,376,176,476,1 40,874,178,978,1 43,42,176,140,1 45,717,174,812,1 441,42,637,158,1 443,376,637,497,1 443,205,639,322,1 443,546,639,670,1 443,878,651,999,1 446,714,656,836,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\9322f99da2916483.jpg 29,51,988,390,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\938ba42e8411c4c1.jpg 51,0,1023,446,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\946cc8bd4ed79657.jpg 74,20,898,715,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\9563bb27b781816c.jpg 378,371,858,764,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\956959690dcc511a.jpg 157,95,918,609,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\9793af617911e277.jpg 44,0,990,671,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\9831a2a519756569.jpg 535,189,676,256,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\98eca605430fa574.jpg 202,309,848,530,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\9c431340cfdd3f74.jpg 21,30,499,750,1 520,27,1009,742,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\9c7ea74cee59d5da.jpg 227,203,766,592,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\9e5ff48ce04d4b04.jpg 510,343,1007,588,1 615,441,1023,704,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\9e6d82d0f715abef.jpg 127,42,994,710,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\9f41a9e5a3296b30.jpg 684,160,837,245,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\9f5236d74203b669.jpg 93,138,860,684,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\9f9e92f5f37346f2.jpg 51,0,1023,574,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\a1ab5abe642ba114.jpg 31,90,976,698,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\a32e6f83554b1629.jpg 243,85,885,496,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\a3ced0c9b6410463.jpg 42,219,220,331,1 250,452,441,762,1 944,546,1005,634,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\a3f8b6109350fb9d.jpg 416,103,1023,672,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\a5e8777a4b431c70.jpg 0,0,419,680,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\a67c45fe2b36d2e3.jpg 50,39,446,299,1 50,274,552,619,1 327,447,713,691,1 532,27,988,269,1 594,277,974,680,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\a80d624f96009704.jpg 85,123,1023,625,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\a814805d1894064c.jpg 110,0,1023,700,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\a844ec00ad8d71cd.jpg 106,140,876,555,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\a92913a0868db5ba.jpg 703,633,933,743,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\ac1db44eee6c9d46.jpg 134,63,851,600,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\aca6f395cc8ec8ee.jpg 90,74,985,611,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\ad3aa97adfb25729.jpg 20,175,1002,481,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\ad3e4cfdd6b724d8.jpg 139,0,547,1023,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\ade4ef03376e286f.jpg 28,13,941,474,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\ae098cc5eee35f9a.jpg 142,192,805,656,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\ae3f559265032474.jpg 32,154,948,634,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\ae65b7cedbcfe6f3.jpg 28,30,986,669,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\af3c3efdc1b3cc31.jpg 689,60,1023,457,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\afadbeb981db64c9.jpg 60,61,960,711,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\b036a7b742284b79.jpg 45,45,978,669,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\b0a86ea88c360b44.jpg 0,113,806,767,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\b481c974640486fc.jpg 53,27,970,697,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\b493f79098b1ac02.jpg 184,35,906,408,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\b4be63ea711a3737.jpg 180,199,332,423,1 353,10,1008,838,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\b5945cf9634915ea.jpg 0,0,1005,892,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\b671a105622f1995.jpg 76,401,579,767,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\b7aebc8d24bd72aa.jpg 21,97,959,620,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\b8db68fbaf910a71.jpg 272,341,334,481,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\b93e7f34fbe185cd.jpg 162,48,762,358,1 264,328,881,622,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\b9ffaf9090a96add.jpg 39,94,1023,631,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\ba14a8faa76faa9a.jpg 196,197,611,575,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\ba6d951be8dbac67.jpg 21,49,984,661,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\bbbe57ab3e23f0f9.jpg 0,0,708,1023,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\bc92766a62d56fc0.jpg 115,70,690,588,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\bd65790633abe6bc.jpg 134,297,662,641,1 640,0,796,182,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\be811acd5681d33c.jpg 243,145,844,669,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\c01faf9826c4ded2.jpg 24,96,1006,731,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\c1e5caf1d665354b.jpg 0,105,1023,679,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\c220bdb28a6c6506.jpg 515,642,768,983,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\c2a0f81064f0b92a.jpg 83,108,910,672,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\c2fa42287fbcb21f.jpg 26,148,929,556,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\c5858478a2fb9cd0.jpg 5,140,576,491,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\c67bde046e9e57f2.jpg 93,329,987,811,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\c7051a4a6a4c3f3d.jpg 49,189,639,835,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\c726d838906b361d.jpg 69,75,980,650,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\c76bc9b1b5bcd7e0.jpg 129,80,839,707,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\c7eca00a169076ad.jpg 229,44,940,545,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\c8c9d646eb3e0ae7.jpg 182,236,938,884,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\c8da5ef6abdfc6cf.jpg 101,368,946,922,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\c960e5bd478d4890.jpg 467,340,514,368,1 683,451,910,562,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\c98d6635813a9b90.jpg 422,320,985,777,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\ca76256f3c696307.jpg 0,0,1023,682,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\cb1d603597f7fd67.jpg 0,0,870,546,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\cbfda7f05c1ecf69.jpg 0,628,112,767,1 0,133,170,355,1 231,113,890,391,1 291,456,965,767,1 873,251,1023,341,1 974,451,1022,502,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\cd97edd3e538f40e.jpg 0,293,384,535,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\ce873e1b0afebd6f.jpg 156,148,486,312,1 171,601,518,766,1 222,387,438,502,1 263,118,574,190,1 350,283,550,372,1 379,412,699,543,1 627,608,908,766,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\ce88641aae294ee8.jpg 0,420,233,592,1 29,768,252,861,1 108,371,520,756,1 145,632,185,766,1 205,61,628,382,1 245,210,374,402,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\cf1b66cd18d5258f.jpg 52,67,621,485,1 370,369,965,789,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\d11f56aa5d7a9cf4.jpg 263,159,967,603,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\d1c784f544200912.jpg 97,268,924,493,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\d2fba59baf37afba.jpg 91,125,890,674,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\d31cd651dfad87f6.jpg 0,0,1021,702,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\d5549214b00988c0.jpg 93,177,897,674,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\d651900c41fb048d.jpg 31,42,983,611,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\d6ffdd7ca1d743cc.jpg 76,41,981,700,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\d8cb267193521602.jpg 643,190,987,804,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\d91ac80a32f7a053.jpg 195,92,884,574,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\d989a46962f1e1ad.jpg 172,42,990,742,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\dab67c29f5d4dce4.jpg 20,21,1013,515,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\dad195b684cec5d4.jpg 349,288,489,582,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\db1822cd216f4004.jpg 31,231,248,588,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\dc2de14ed59812bf.jpg 32,52,952,666,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\dc42217961a25d37.jpg 287,448,632,1009,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\dc764c01816b85ee.jpg 87,113,947,673,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\df63e21b3d9eb563.jpg 28,48,995,574,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\dfc79ecda60183d6.jpg 216,210,869,559,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\dff29ab8c39fb62e.jpg 853,198,1023,358,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\e1fb4e3447badd8f.jpg 174,81,928,633,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\e2a994fb63ba553b.jpg 120,161,831,606,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\e2e3b4c569a2ce72.jpg 5,97,986,607,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\e51a4fb343ffc402.jpg 103,277,976,655,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\e536faea366a3699.jpg 32,28,996,655,1 83,28,976,584,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\e53a44b16a41afb5.jpg 505,406,790,669,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\e57574535eb7054a.jpg 171,305,852,611,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\e67e96e9fb49f1cc.jpg 42,122,887,720,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\e72e5f50975783e4.jpg 221,162,873,556,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\e7f556e5167b8a1a.jpg 215,108,800,686,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\e9233338d45de7ec.jpg 154,373,530,715,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\e9421b9e7b3abcc3.jpg 119,72,862,639,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\eac3cae453aed59f.jpg 166,104,546,478,1 411,327,530,534,1 807,357,926,566,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\ec1f5dd8db133612.jpg 0,134,493,459,1 58,0,528,192,1 287,430,904,752,1 348,218,895,430,1 569,0,850,103,1 584,29,807,218,1 766,134,994,333,1 917,156,1022,279,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\ed2869525b94f80e.jpg 0,49,920,682,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\ed72edd4b44fd6a5.jpg 0,85,311,451,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\eddfd612d47961e6.jpg 38,176,999,659,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\ee24d9e28181773a.jpg 220,367,529,539,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\ee9c4ba9e6ea0735.jpg 25,37,1006,636,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\eec44434c18b304c.jpg 104,161,321,352,1 124,709,312,881,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\eef1576c3dd783fe.jpg 45,35,712,752,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\ef3e00f81192ad70.jpg 33,115,914,635,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\f3b7ae59812b1ff7.jpg 56,68,961,712,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\f445a026b2203795.jpg 166,515,278,734,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\f6635b7688d3356a.jpg 35,219,976,546,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\f66fde6b64b66369.jpg 186,18,807,745,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\f6b6b65c25344759.jpg 49,155,871,634,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\f6de76e44a5836e8.jpg 510,161,560,222,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\f9608d55688e7733.jpg 0,15,978,566,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\f9ae29f9202608cd.jpg 64,430,308,810,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\faa8bb37e9818b0a.jpg 21,213,1023,650,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\fb31d55b4b9ae8bf.jpg 492,183,991,382,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\fc527526a790478f.jpg 128,203,571,543,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\fd37baf221b39f2f.jpg 198,47,840,700,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\fe7cc2aa609d8d84.jpg 70,255,311,586,1 168,76,466,428,1 251,87,983,703,1
+D:\Project\OIDv4\OID\Dataset\train\Handgun\fff2e8d187ce5b2b.jpg 104,215,369,325,1
