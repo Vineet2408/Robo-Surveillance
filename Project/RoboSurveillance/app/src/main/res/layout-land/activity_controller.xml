@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ControllerAct">
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="status"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:textColor="#f00"
+        android:layout_margin="10sp"
+        android:gravity="center"
+        android:textAllCaps="true"
+        android:id="@+id/statusTextView"
+        >
+    </TextView>
+
+    <Button
+        android:layout_width="58sp"
+        android:layout_height="55sp"
+        android:layout_margin="5dp"
+        android:layout_centerVertical="true"
+        android:foreground="@drawable/serverconnectblack_24dp"
+        android:id="@+id/ControllerConnectBtn"
+        >
+    </Button>
+    <Button
+        android:layout_width="50sp"
+        android:layout_height="50sp"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:id="@+id/playBtn"
+        android:layout_margin="5dp"
+        android:background="@drawable/connect_play_filled_24dp"
+        >
+    </Button>
+
+    <Button
+        android:layout_width="40sp"
+        android:layout_height="40sp"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:id="@+id/sendCmdBtn"
+        android:layout_margin="5dp"
+        android:foreground="@drawable/sendlogo_black_24dp"
+        >
+    </Button>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/controllerView"
+        android:src="@drawable/scopecallofduty"
+        android:scaleType="centerCrop"
+        android:layout_margin="2dp"
+        >
+    </ImageView>
+
+
+    <EditText
+        android:layout_width="300dp"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+        android:hint="enter text"
+        android:textAllCaps="true"
+        android:text="hello pi"
+        android:textSize="20sp"
+        android:gravity="center"
+        android:layout_centerHorizontal="true"
+        android:textColorHint="#f00"
+        android:textStyle="bold"
+        android:id="@+id/commandText"
+        >
+    </EditText>
+
+</RelativeLayout>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:background="@drawable/login"
+    android:orientation="vertical">
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/ipAddField"
+        android:text="192.168."
+        android:inputType="number|textPostalAddress"
+        android:gravity="center"
+        android:layout_marginTop="180dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginLeft="10dp"
+        android:textColor="#f00"
+        android:hint="ipAddress"
+        >
+    </EditText>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:id="@+id/portNumberField"
+        android:layout_marginTop="40dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginLeft="10dp"
+        android:inputType="number|textPostalAddress"
+        android:text="9000"
+        android:textColor="#0f0"
+        android:hint="port number"
+        >
+    </EditText>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_margin="50dp"
+        android:text="START"
+        android:textStyle="bold"
+        android:id="@+id/startBtn"
+        android:layout_gravity="bottom"
+        android:background="#0000ff"
+        >
+    </Button>
+
+</LinearLayout>
